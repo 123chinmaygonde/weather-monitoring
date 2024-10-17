@@ -36,8 +36,12 @@ MongoDB (for storing weather summaries)
 # Setup Instructions
 1) git clone https://github.com/123chinmaygonde/weather-monitoring
 2) npm install
-3) WEATHER-API_KEY = a53e4d85949bdcff59e5a2c38a36c624
-4) npm start
+3) cd weather-monitoring
+4) cd backend
+5) npm run dev
+6) cd frontend
+7) cd client
+8) npm start
 
 
 
